@@ -7,10 +7,11 @@
  
 <h2>👨‍💻 Labs & Projects:</h2>
 
-- [Cloud Security Analyst - Microsoft Azure](https://youtube.com/@Wins_IT?si=Kreoudi7Wx7d7VqG)
-- [Network Vulnerability Manager - Nessus Essentials](https://github.com/WinsIT-2024/Nessus-Vulnerability-Scan)
-- [System Administrator - Microsoft Active Directory](https://youtube.com/@Wins_IT?si=Kreoudi7Wx7d7VqG)
 - [Salesforce Business Analyst - Stakeholder Presentation](https://youtube.com/@Wins_IT?si=Kreoudi7Wx7d7VqG)
+- [Cloud Security Analyst - Microsoft Azure](https://youtube.com/@Wins_IT?si=Kreoudi7Wx7d7VqG)
+- [Network Security Analyst - Nessus Essentials](https://github.com/WinsIT-2024/Nessus-Vulnerability-Scan)
+- [System Administrator - Microsoft Active Directory](https://youtube.com/@Wins_IT?si=Kreoudi7Wx7d7VqG)
+
 
 
 
