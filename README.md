@@ -1,4 +1,6 @@
-<h1>Hi, I'm Winsly! <br/><a href="https://github.com/WinsIT-2024">IT Security Specialist</a>, <a href="https://www.linkedin.com/in/winsly-leonce/">Contract Specialist</a>, <a href="https://www.salesforce.com/trailblazer/winsly">Salesforce Professional</a></h1>
+![logo](https://imgur.com/GE4zXhU.png)
+
+<h1><a href="https://github.com/WinsIT-2024">IT Security Specialist</a>, <a href="https://www.linkedin.com/in/winsly-leonce/">Contract Specialist</a>, <a href="https://www.salesforce.com/trailblazer/winsly">Salesforce Professional</a></h1>
 
 <h2>📜 Certifications:</h2>
 
