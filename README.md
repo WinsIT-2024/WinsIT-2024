@@ -4,6 +4,11 @@
 
 <h2>📜 Certifications:</h2>
 
+<p float="left">
+  <img src="https://imgur.com/rt1SA9Y.png" alt="comptia" width="80"/>
+  <img src="https://imgur.com/nNlwhiu.png" alt="salesforce" width="65"/> 
+  </p>
+
 - [CompTIA Security+](https://www.credly.com/badges/ba7028fe-db97-45dc-abd2-833a0ab32e08/)
 - [Salesforce Certified Administrator](https://www.salesforce.com/trailblazer/winsly)
  
@@ -19,8 +24,8 @@
 
 <h2> 💻 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
 
