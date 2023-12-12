@@ -2,19 +2,21 @@
 
 <h1><a href="https://github.com/WinsIT-2024">IT Security Specialist</a>, <a href="https://www.linkedin.com/in/winsly-leonce/">Contract Specialist</a>, <a href="https://www.salesforce.com/trailblazer/winsly">Salesforce Professional</a></h1>
 
-<h2>📜 Certifications:</h2>
+<h2>📜 Certifications:</h2> 
 
+<br/>
+ 
+[<img align="left" alt="WinslyLeonce | CompTIA" width="100px" src="https://imgur.com/rt1SA9Y.png" />][CompTIASecurity+]
   
-[<img align="left" alt="WinslyLeonce | CompTIA" width="80px" src="https://imgur.com/rt1SA9Y.png" />][CompTIASecurity+]
-
 [<img align="left" alt="WinslyLeonce | Salesforce" width="75px" src="https://imgur.com/nNlwhiu.png" />][SalesforceAdministrator]<br/>
+
 
 [CompTIASecurity+]: https://www.credly.com/badges/ba7028fe-db97-45dc-abd2-833a0ab32e08/
 [SalesforceAdministrator]: https://www.salesforce.com/trailblazer/winsly
 
 
-
 <br/>
+
 
 ---
 
@@ -32,12 +34,16 @@
 
   <p align="left">
   <img src="https://imgur.com/LKPbICq.png" height="25%" width="25%" alt="Azure Custom Log"/>
+  <img src="https://imgur.com/LYcWfZf.png" height="25%" width="25%" alt="Azure Custom Log"/>
   </p>  
   
   ---
  
 - [Network Security Analyst - Nessus Essentials](https://github.com/WinsIT-2024/Nessus-Vulnerability-Scan)
 
+  <img src="https://imgur.com/fhy5ahD.png" height="25%" width="25%" alt="Nessus Essentials"/>
+  <img src="https://imgur.com/lxpgh36.png" height="25%" width="25%" alt="Nessus Essentials"/>
+  
   ---
   
 - [System Administrator - Microsoft Active Directory](https://github.com/WinsIT-2024/Microsoft-Active-Directory)
