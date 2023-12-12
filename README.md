@@ -29,9 +29,11 @@
   </p>
 ---
 - [Cloud Security Analyst - Microsoft Azure](https://github.com/WinsIT-2024/Microsoft-Azure-Custom-Log)
+
   <p align="left">
   <img src="https://imgur.com/LKPbICq.png" height="25%" width="25%" alt="Azure Custom Log"/>
-    
+  </p>  
+  
   ---
  
 - [Network Security Analyst - Nessus Essentials](https://github.com/WinsIT-2024/Nessus-Vulnerability-Scan)
