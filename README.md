@@ -42,7 +42,9 @@
   
 - [System Administrator - Microsoft Active Directory](https://github.com/WinsIT-2024/Microsoft-Active-Directory)
 
+  <img src="https://imgur.com/43S84IM.png" height="25%" width="25%" alt="Azure Custom Log"/>
 
+---
 
 
 <h2> 💻 Connect with me:</h2>
