@@ -5,15 +5,19 @@
 <h2>📜 Certifications:</h2>
 
   
-[<img align="left" alt="WinslyLeonce | CompTIA" width="80" src="https://imgur.com/rt1SA9Y.png" />][CompTIASecurity+]
+[<img align="left" alt="WinslyLeonce | CompTIA" width="80px" src="https://imgur.com/rt1SA9Y.png" />][CompTIASecurity+]
 
-[<img align="left" alt="WinslyLeonce | Salesforce" width="80" src="https://imgur.com/nNlwhiu.png" />][SalesforceAdministrator]<br/>
+[<img align="left" alt="WinslyLeonce | Salesforce" width="75px" src="https://imgur.com/nNlwhiu.png" />][SalesforceAdministrator]<br/>
 
 [CompTIASecurity+]: https://www.credly.com/badges/ba7028fe-db97-45dc-abd2-833a0ab32e08/
 [SalesforceAdministrator]: https://www.salesforce.com/trailblazer/winsly
 
 
+
 <br/>
+
+---
+
 <h2> 👨‍💻 Projects & Labs:</h2>
 
 - [Salesforce Business Analyst - Stakeholder Presentation](https://youtube.com/@Wins_IT?si=Kreoudi7Wx7d7VqG)
