@@ -1,6 +1,6 @@
 ![logo](https://imgur.com/RFGOj1R.png)
 
-<h1><a href="https://github.com/WinsIT-2024">IT Security Specialist</a>, <a href="https://www.linkedin.com/in/winsly-leonce/">Contract Specialist</a>, <a href="https://www.salesforce.com/trailblazer/winsly">Salesforce Professional</a></h1>
+<h1><a href="https://github.com/WinsIT-2024">Network Technician</a>, <a href="https://www.linkedin.com/in/winsly-leonce/">Contract Specialist</a>, <a href="https://www.salesforce.com/trailblazer/winsly">Salesforce Professional</a></h1>
 
 <h2>📜 Certifications:</h2> 
 
