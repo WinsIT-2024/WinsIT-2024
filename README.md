@@ -22,7 +22,7 @@
 
 <h2> 👨‍💻 Projects & Labs:</h2>
 
-- [Salesforce Business Analyst - Stakeholder Presentation](https://youtube.com/@Wins_IT?si=Kreoudi7Wx7d7VqG)
+- [Salesforce Business Analyst - Stakeholder Presentation](https://youtu.be/gAeFhIl1aGQ)
   
   <p float="left">
   <img src="https://imgur.com/MD28FJu.png" height="25%" width="25%" alt="salesforce presentation"/>
