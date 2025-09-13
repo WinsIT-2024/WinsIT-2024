@@ -1,6 +1,6 @@
 ![logo](https://imgur.com/RFGOj1R.png)
 
-<h1><a href="https://github.com/WinsIT-2024">Network Technician</a>, <a href="https://www.linkedin.com/in/winsly-leonce/">Contract Specialist</a>, <a href="https://www.salesforce.com/trailblazer/winsly">Salesforce Professional</a></h1>
+<h2><a href="https://github.com/WinsIT-2024">IT Security Professional</a>, <a href="https://www.linkedin.com/in/winsly-leonce/">Network Technician</a>, <a href="https://www.salesforce.com/trailblazer/winsly">Salesforce Certified Professional</a></h2>
 
 <h2>📜 Certifications:</h2> 
 
@@ -22,14 +22,6 @@
 
 <h2> 👨‍💻 Projects & Labs:</h2>
 
-- [Salesforce Business Analyst - Stakeholder Presentation](https://youtu.be/gAeFhIl1aGQ)
-  
-  <p float="left">
-  <img src="https://imgur.com/MD28FJu.png" height="25%" width="25%" alt="salesforce presentation"/>
-  <img src="https://imgur.com/Y0QMyF5.png" height="20%" width="20%" alt="salesforce presentation"/>
-  <img src="https://imgur.com/Si2RgJj.png" height="22%" width="22%" alt="salesforce presentation"/> 
-  </p>
----
 - [Cloud Security Analyst - Microsoft Azure](https://github.com/WinsIT-2024/Microsoft-Azure-Custom-Log)
 
   <p align="left">
@@ -53,15 +45,7 @@
 ---
 
 
-<h2> 💻 Connect with me:</h2>
 
-[<img align="left" alt="WinslyLeonce | LinkedIn" width="30px" src="https://imgur.com/CYMnG4W.png" />][linkedin]
-[<img align="left" alt="WinsIT | YouTube" width="40px" src="https://imgur.com/pKtLLTo.png" />][youtube]
-
-
-
-[linkedin]: https://www.linkedin.com/in/winsly-leonce/
-[youtube]: https://www.youtube.com/@Wins_IT
 
 
 <!--
